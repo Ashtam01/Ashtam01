@@ -7,7 +7,7 @@ Web Developer | Competitive Programming in C++
 I’m a 3rd-year student at NSUT passionate about web development and competitive programming. I work with the MERN stack and C++, and I enjoy building real-world projects while constantly learning new technologies.
 
 * 🌍  I'm based in Delhi, India
-* ✉️  You can contact me at [ashtampatitiwari@hmail.com](mailto:ashtampatitiwari@hmail.com)
+* ✉️  You can contact me at [ashtampatitiwari@hmail.com](mailto:ashtampatitiwari@gmail.com)
 * 🧠  I'm currently learning Advanced MERN Stack & System Design Basics
 * 👥  I'm looking to collaborate on Web development projects, hackathons, and open-source contributions
 * 💬  Ask me about Always curious to learn, build, and explore new ideas. Open to internships, collaborations, and exciting tech discussions!
